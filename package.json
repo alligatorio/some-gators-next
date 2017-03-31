@@ -1,0 +1,24 @@
+{
+  "name": "some-gators",
+  "version": "1.0.0",
+  "description": "A simple demonstration of Next.js, with gators.",
+  "repository": "https://github.com/alligatorio/some-gators-next",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "next": "^1.2.3"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  }
+}

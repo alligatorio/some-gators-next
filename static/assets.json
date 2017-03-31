@@ -1,0 +1,13 @@
+{
+  "slides": [
+    "/static/slides/gator1.jpg",
+    "/static/slides/gator2.jpg",
+    "/static/slides/gator3.png"
+  ],
+  "captions": [
+    "One Gator",
+    "Two Men, One Gator",
+    "Two Gators"
+  ],
+  "story": "Aw heck, there ain't much to say. The whole point of this exercise was to illustrate how simple Next makes stuff like routing and background loading. Shoot, this whole dang paragraph was passed as part of the dern URL."
+}
